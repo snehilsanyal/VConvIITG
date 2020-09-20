@@ -1,8 +1,11 @@
 ![](https://www.iitg.ac.in/clst/salsa/images/9.jpg)
 ## Virtual Tour of IIT Guwahati Campus
 
-![](https://iitg.ac.in/freshers/res/images/iitg_logo.svg)
+<p align="center">
 
+  <img src="https://iitg.ac.in/freshers/res/images/iitg_logo.svg" />
+  
+</p>
 **Link to the Virtual Presence Space:**
 
 [**Virtual Presence Space**](https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation)
