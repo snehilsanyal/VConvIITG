@@ -167,7 +167,7 @@ Kindly, contact us we will be present during each slot.
 >
 >`9399690211`
 
-![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/Webp.net-resizeimage.jpg)
+![ ](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/Webp.net-resizeimage.jpg)
 
 > **Pallab Jyoti Dutta**
 >
