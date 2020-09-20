@@ -14,10 +14,11 @@
 <br>
   <b>Link to the Virtual Presence Space:</b>
 <br>
-  <a href="https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation"><h2>Virtual Presence Space</h2></a>
+  <a href="https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation">Virtual Presence Space</a>
 <br>
 </p>
 
+For Password and other login details [click here](#Password)
 
 ### Greetings Class of 2020
 
@@ -81,6 +82,8 @@ Hurrah!!! You are inside the virtual space of IIT Guwahati campus.
 3. Only those who are graduating with an **Institute WebMail ID** and the **Password** for the room will be allowed to enter the space. We have set a guest list for allowed people.
 4. Each slot will have different passwords. If you have ```iitg.ac.in``` institute ID only then you will be allowed for the Virtual Presence experience.
 5. Maintain the necessary decorum of the platform as the event is big and everyone else will be present. Kindly make this day memorable for you as well as others.
+
+<a name="Password"></a>
 
 ### Scheduled slots:
 
