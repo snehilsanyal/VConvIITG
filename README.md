@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.iitg.ac.in/clst/salsa/images/9.jpg" />
+  <img src="https://www.iitg.ac.in/clst/salsa/images/9.jpg" width="425" height="450"/>
   </p>
   
 ## Virtual Tour of IIT Guwahati Campus
