@@ -70,12 +70,12 @@ Hurrah!!! You are inside the virtual space of IIT Guwahati campus.
 
 We have decided **4 slots** dedicated for different branches and centers. Each department will be having the graduating **UG students, PG students, Research Scholars, and faculties**.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+|Slots   |Department | Time  | Password |
+|:-------|:-----------------------|:-------|:---------------|
+| Slot 1 | good swedish fish | nice  ||
+| Slot 2 | good and plenty   | nice  ||
+| Slot 3 | good ```oreos```      | hmm   ||
+| Slot 4 | good ```zoute``` drop | yumm  ||
 
 **Kindly enter in the dedicated time slot**. Each department has UG,PG, Research Scholars and faculties all of them will be entering together.
 
