@@ -21,6 +21,7 @@ IIT Guwahati has made sure students relive this event as if they were in the cam
 Seeing all this, it was very important to create some platform which would be fun for the students, so that they donot feel bad about missing the convocation, and at the same time it can be used as a platform to interact with the friends and faculties one last time in the favourite spots of the institute.
 
 Thus,came the idea of the **virtual presence experience**. This virtual presence was created by a team of faculty and students **(Team Virtual Convocation)**.
+
 Under the esteemed supervision of, **[Dr. M. K. Bhuyan, Professor, EEE Department and Dean IPM](https://www.iitg.ac.in/mkb/)** the student members created a virtual presence experience.
 The student members involved are **[Snehil Sanyal](https://github.com/snehilsanyal)** and **[H Pallab Jyoti Dutta]()**, both Research Scholars from EEE Department.
 
@@ -49,9 +50,12 @@ Here is the link to the gather town virtual presence space:
 Once you click the link you will be directed to the gather town space. **We recommend you to use your laptops or PCs for using this as the API is a bit slow.**
 
 ![A](https://raw.githubusercontent.com/snehilsanyal/VConvIITG/master/password.png "Password")
+
 You will be prompted for the password once you go to the link.
 After entering into the space, check your Audio/Video settings as you would normally do for a Zoom meeting and enter your name.
+
 ![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/name.png "Name")
+
 Hurrah!!! You are inside the virtual space of IIT Guwahati campus.
 
 ### NOTE:
@@ -59,7 +63,7 @@ Hurrah!!! You are inside the virtual space of IIT Guwahati campus.
 1. We will provide the password to you on **22nd September 2020, 11 AM Indian Standard Time** through this webpage.
 2. Kindly, login through the link in the **dedicated time slot** to avoid fuss,so that we can rectify any issues in the experience. 
 3. Only those who are graduating with an **Institute WebMail ID** and the **Password** for the room will be allowed to enter the space. We have set a guest list for allowed people.
-4. Each slot will have different passwords. If you have iitg.ac.in institute ID only then you will be allowed for the Virtual Presence experience.
+4. Each slot will have different passwords. If you have `iitg.ac.in` institute ID only then you will be allowed for the Virtual Presence experience.
 4. Maintain the necessary decorum of the platform as the event is big and everyone else will be present. Kindly make this day memorable for you as well as others.
 
 ### Scheduled slots:
@@ -104,8 +108,11 @@ The point where you start from in the map once you login to the space is the spa
 **Minimap:**
 
 ![Minimap](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Minimap.PNG "Minimap of IIT Guwahati")
+
 You can also see  the minimap of the institute from the pane given below, and see where you are with respect to the map.
+
 ![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Options.PNG "Options")
+
 Other options are Screenshare, Raise Hands, Status, and settings.
 
 **Raise Hands:**
@@ -115,12 +122,14 @@ You can raise hands within the space to have some query.
 **Chat:**
 
 ![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Chatbox.PNG "Chatbox")
+
 Have a chat with your friends from the side pane using the chatbox.
 Go to them using the **locate** button. Once you reach anyone you will be able to see there video as well.
 
 **Interact:**
 
 ![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Interact.PNG "Interact")
+
 Interact with the environment once the screen prompts. Whenever you go close to an interactive object like video or poster you can **press the X** button to interact with it.
 Once you are interacting  with the posters, you will be seeing a message Press i to go to the link. This i button will be on the right of your pane between your screen and chat box.
 
