@@ -5,25 +5,25 @@
 
 ### Greetings Class of 2020
 
-We know how difficult it is for all of you. Just dont let the negativity and the pandemic eat you up.
+We know how difficult it is for all of you. Just don't let the negativity and the pandemic eat you up.
 We know it has been 4 years of constant efforts which made you what you are today. But when the time came to cherish the final moment it was gone. We cannot assure you a physical convocation this time, but hang on we have got something more interesting and fun for you.
 
 ### Motive:
 
 As we all know, amongst this pandemic the students are not able to be physically present inside the campus.
 Being one of the most important moments, in one's student life, convocation is a memorable event for everyone.
-In these situations, when students donot have the chance to bid farewell to the institute and their friends, and spend some quality time for one last time.
+In these situations, when students donot have the chance to bid farewell to the institute and their friends and spend some quality time for one last time,
 IIT Guwahati has made sure students relive this event as if they were in the campus itself.
 
 
 ### Team Virtual Convocation:
 
-Seeing all this, it was very important to create some platform which would be fun for the students, so that they donot feel bad about missing the convocation, and at the same time it can be used as a platform to interact with the friends and faculties one last time in the favourite spots of the institute.
+Seeing all this, it was very important to create some platform which would be fun for the students, so that they donot feel bad about missing the convocation and at the same time it can be used as a platform to interact with the friends and faculties one last time in the favourite spots of the institute.
 
-Thus,came the idea of the **virtual presence experience**. This virtual presence was created by a team of faculty and students **(Team Virtual Convocation)**.
+Thus, came the idea of the **virtual presence experience**. This virtual presence was created by a team of faculty and students **(Team Virtual Convocation)**.
 
-Under the esteemed supervision of, **[Dr. M. K. Bhuyan, Professor, EEE Department and Dean IPM](https://www.iitg.ac.in/mkb/)** the student members created a virtual presence experience.
-The student members involved are **[Snehil Sanyal](https://github.com/snehilsanyal)** and **[H Pallab Jyoti Dutta]()**, both Research Scholars from EEE Department.
+The virtual presence platform is created by a team led by **[Dr. M.K. Bhuyan, Professor, Department of EEE, IIT Guwahati]**(https://www.iitg.ac.in/mkb/). The team also consists of his two students **[Snehil Sanyal](https://github.com/snehilsanyal)** and **[H Pallab Jyoti Dutta]()**, who are research scholars of **EEE Department, IIT Guwahati**.
+
 
 ## Instructions:
 ### About the Virtual Presence Space:
@@ -43,11 +43,11 @@ The map consists of:
  
 The portal is very close to a Zoom meeting, but has a main difference that our portal allows students to have a **game like experience** of the environment with different objects, videos of different departments, speeches and much more.
 
-### How do I ....?:
+### How do I ....?
 
 Here is the link to the gather town virtual presence space:
 [**Virtual Presence Space**](https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation)
-Once you click the link you will be directed to the gather town space. **We recommend you to use your laptops or PCs for using this as the API is a bit slow.**
+Once you click the link you will be directed to the gather town space. **We recommend you to use your laptops or PCs for this as the API is a bit slow.**
 
 ![A](https://raw.githubusercontent.com/snehilsanyal/VConvIITG/master/password.png "Password")
 
@@ -89,7 +89,7 @@ Once you log in to the space you will be able to see a 2D virtual avatar. You ca
 
 **Navigation:**
 
-You can navigate the map using the arrow keys or W,A,S,D keys. Students who play games wont have any problem whatsoever in navigating and roaming around.
+You can navigate the map using the arrow keys or W,A,S,D keys. Students who play games won't have any problem whatsoever in navigating and roaming around.
 
 **Ghost Mode:** 
 
@@ -111,11 +111,11 @@ The point where you start from in the map once you login to the space is the spa
 
 ![Minimap](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Minimap.PNG "Minimap of IIT Guwahati")
 
-You can also see  the minimap of the institute from the pane given below, and see where you are with respect to the map.
+You can also see  the minimap of the institute from the pane given below and see where you are with respect to the map.
 
 ![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Options.PNG "Options")
 
-Other options are Screenshare, Raise Hands, Status, and settings.
+Other options are Screenshare, Raise Hands, Status and Settings.
 
 **Raise Hands:**
 
@@ -126,14 +126,14 @@ You can raise hands within the space to have some query.
 ![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Chatbox.PNG "Chatbox")
 
 Have a chat with your friends from the side pane using the chatbox.
-Go to them using the **locate** button. Once you reach anyone you will be able to see there video as well.
+Go to them using the **locate** button. Once you reach anyone, you will be able to see their video as well.
 
 **Interact:**
 
 ![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Interact.PNG "Interact")
 
 Interact with the environment once the screen prompts. Whenever you go close to an interactive object like video or poster you can **press the X** button to interact with it.
-Once you are interacting  with the posters, you will be seeing a message Press i to go to the link. This i button will be on the right of your pane between your screen and chat box.
+Once you are interacting  with the posters, you will be seeing a message **Press i to go to the link**. This **i button** will be on the right of your pane between your screen and chat box.
 
 **Locate:**
 
@@ -155,7 +155,7 @@ Delays are subject to internet connectivity. As far as a normal connection is co
 Check your internet connection. If internet connection is working fine, go to settings button on the bottom pane of the window and click on Respawn. This will make your character spawn again in the map.
 - **Any other issues**:
 
-Kindly, contact us we will be present during each slot. 
+Kindly, contact us. We will be present during each slot. 
 
 **For any technical support you can contact us:**
 
