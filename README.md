@@ -158,13 +158,17 @@ Check your internet connection. If internet connection is working fine, go to se
 Kindly, contact us we will be present during each slot. 
 
 **For any technical support you can contact us:**
+
 ![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/Snehil%20(2).jpg)
+
 > **Snehil Sanyal**
 >
 >ssanyal@iitg.ac.in
 >
 >`9399690211`
+
 ![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/Webp.net-resizeimage.jpg)
+
 > **Pallab Jyoti Dutta**
 >
 >h18@iitg.ac.in
