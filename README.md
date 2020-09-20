@@ -70,7 +70,7 @@ Hurrah!!! You are inside the virtual space of IIT Guwahati campus.
 
 We have decided **4 slots** dedicated for different branches and centers. Each department will be having the graduating **UG students, PG students, Research Scholars, and faculties**.
 ___
-|Slots |Departments |Time Schedule | Password|
+`Slots` `Departments` `Time Schedule` `Password`
 |-------|--------|--------|------|
 |`Slot 1`||||
 |`Slot 2`||||
@@ -154,13 +154,13 @@ Kindly, contact us we will be present during each slot.
 
 **For any technical support you can contact us:**
 ![]()
->Snehil Sanyal
+> **Snehil Sanyal**
 >
 >ssanyal@iitg.ac.in
 >
 >`9399690211`
 
->Pallab Jyoti Dutta
+> **Pallab Jyoti Dutta**
 >
 >h18@iitg.ac.in
 >
