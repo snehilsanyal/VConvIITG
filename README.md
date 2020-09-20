@@ -103,7 +103,7 @@ We have decided **4 slots** dedicated for different branches and centers. Each d
 **Kindly enter in the dedicated time slot**. Each department has UG, PG, Research Scholars and Faculties. All of them will be entering together.
 
 ### Utilities:
-**Avatars:**
+#### Avatars:
 
 Once you log in to the space you will be able to see a 2D virtual avatar. You can change the appearance of your avatar. This avatar will be seen by you and others.
 
