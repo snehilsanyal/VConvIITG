@@ -72,10 +72,10 @@ We have decided **4 slots** dedicated for different branches and centers. Each d
 
 |[**Slots**]()   |[**Departments**]() | [**Time**]()  | [**Password**]()|
 |:-------|:-----------------------|:-------|:---------------|
-| **Slot 1** | CSE + ME + CLST + Nano | 01:30 PM - 02:00 PM  |ABCDEFG|
-| **Slot 2** | EEE + Humanities + Civil + Rural  | 02:05 PM - 02:35 PM  |HIJKLMN|
-| **Slot 3** | BSBE + Maths + Design + Energy  | 02:40 PM - 03:10 PM  |OPQRSTU|
-| **Slot 4** | Chemistry + Physics + Chemical + Environment| 03:15 PM - 03:45 PM  |VWXYZ12|
+| [**SLOT 1**]() | CSE + Mech + CLST + Nanotech | **01:30 PM - 02:00 PM**  |ABCDEFG|
+| [**SLOT 2**]() | EEE + Humanities + Civil + Rural  | **02:05 PM - 02:35 PM**  |HIJKLMN|
+| [**SLOT 3**]() | BSBE + Maths + Design + Energy  | **02:40 PM - 03:10 PM**  |OPQRSTU|
+| [**SLOT 4**]() | Chemistry + Physics + Chemical + Environment| **03:15 PM - 03:45 PM**  |VWXYZ12|
 
 **Kindly enter in the dedicated time slot**. Each department has UG,PG, Research Scholars and faculties all of them will be entering together.
 
