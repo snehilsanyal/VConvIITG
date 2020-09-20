@@ -11,14 +11,14 @@ We know it has been 4 years of constant efforts which made you what you are toda
 ### Motive:
 
 As we all know, amongst this pandemic the students are not able to be physically present inside the campus.
-Being one of the most important moments, in one's student life, convocation is a memorable event for everyone.
-In these situations, when students donot have the chance to bid farewell to the institute and their friends and spend some quality time for one last time,
+Being one of the most important moments in one's student life, convocation is a memorable event for everyone.
+In these situations, when students do not have the chance to bid farewell to the institute and their friends and spend some quality time for one last time,
 IIT Guwahati has made sure students relive this event as if they were in the campus itself.
 
 
 ### Team Virtual Convocation:
 
-Seeing all this, it was very important to create some platform which would be fun for the students, so that they donot feel bad about missing the convocation and at the same time it can be used as a platform to interact with the friends and faculties one last time in the favourite spots of the institute.
+Seeing all this, it was very important to create some platform which would be fun for the students, so that they don't feel bad about missing the convocation and at the same time it can be used as a platform to interact with the friends and faculties for one last time in their favourite spots of the institute.
 
 Thus, came the idea of the **virtual presence experience**. This virtual presence was created by a team of faculty and students **(Team Virtual Convocation)**.
 
@@ -61,10 +61,10 @@ Hurrah!!! You are inside the virtual space of IIT Guwahati campus.
 ### NOTE:
 
 1. We will provide the password to you on **22nd September 2020, 11 AM Indian Standard Time** through this webpage.
-2. Kindly, login through the link in the **dedicated time slot** to avoid fuss,so that we can rectify any issues in the experience. 
+2. Kindly login through the link in the **dedicated time slot** to avoid fuss, so that we can rectify any issues in the experience. 
 3. Only those who are graduating with an **Institute WebMail ID** and the **Password** for the room will be allowed to enter the space. We have set a guest list for allowed people.
 4. Each slot will have different passwords. If you have ```iitg.ac.in``` institute ID only then you will be allowed for the Virtual Presence experience.
-4. Maintain the necessary decorum of the platform as the event is big and everyone else will be present. Kindly make this day memorable for you as well as others.
+5. Maintain the necessary decorum of the platform as the event is big and everyone else will be present. Kindly make this day memorable for you as well as others.
 
 ### Scheduled slots:
 
@@ -93,7 +93,7 @@ You can navigate the map using the arrow keys or W,A,S,D keys. Students who play
 
 **Ghost Mode:** 
 
-You can hold the 'G' key in the keyboard to enter ghost mode if you want to avoid some people (just kidding, if you want to silently surpass everyone)
+You can hold the 'G' key in the keyboard to enter ghost mode if you want to avoid some people (just kidding, if you want to silently surpass everyone).
 
 **Spawning:**
 
