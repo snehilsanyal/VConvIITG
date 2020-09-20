@@ -1,10 +1,11 @@
-![](https://www.iitg.ac.in/clst/salsa/images/9.jpg)
+<p align="center">
+  <img src="https://www.iitg.ac.in/clst/salsa/images/9.jpg" />
+  </p>
+  
 ## Virtual Tour of IIT Guwahati Campus
 
 <p align="center">
-
   <img src="https://iitg.ac.in/freshers/res/images/iitg_logo.svg" />
-  
 </p>
 **Link to the Virtual Presence Space:**
 
