@@ -22,7 +22,7 @@ Seeing all this, it was very important to create some platform which would be fu
 
 Thus, came the idea of the **virtual presence experience**. This virtual presence was created by a team of faculty and students **(Team Virtual Convocation)**.
 
-The virtual presence platform is created by a team led by **[Dr. M.K. Bhuyan, Professor, Department of EEE, IIT Guwahati]**(https://www.iitg.ac.in/mkb/). The team also consists of his two students **[Snehil Sanyal](https://github.com/snehilsanyal)** and **[H Pallab Jyoti Dutta]()**, who are research scholars of **EEE Department, IIT Guwahati**.
+The virtual presence platform is created by a team led by **[Dr. M.K. Bhuyan, Professor, Department of EEE, IIT Guwahati](https://www.iitg.ac.in/mkb/)**. The team also consists of his two students **[Snehil Sanyal](https://github.com/snehilsanyal)** and **[H Pallab Jyoti Dutta]()**, who are research scholars of **EEE Department, IIT Guwahati**.
 
 
 ## Instructions:
