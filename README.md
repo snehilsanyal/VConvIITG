@@ -5,13 +5,16 @@
 ## Virtual Tour of IIT Guwahati Campus
 
 <p align="center">
-  <img src="https://iitg.ac.in/freshers/res/images/iitg_logo.svg" />
+  <img src="https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/IIT%20Guwahati%20Logo.png" />
 </p>
+
+<p align = "center">
+
 **Link to the Virtual Presence Space:**
 
 [**Virtual Presence Space**](https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation)
 
-
+</p>
 ### Greetings Class of 2020
 
 We know how difficult it is for all of you. Just don't let the negativity and the pandemic eat you up.
