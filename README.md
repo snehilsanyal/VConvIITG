@@ -1,17 +1,18 @@
+![](https://iitg.ac.in/freshers/res/images/iitg_logo.svg) 
 ## Virtual Tour of IIT Guwahati Campus
 
-#### Greetings Class of 2020
+### Greetings Class of 2020
 We know how difficult it is for all of you. Just dont let the negativity and the pandemic eat you up.
 We know it has been 4 years of constant efforts which made you what you are today. But when the time came to cherish the final moment it was gone. We cannot assure you a physical convocation this time, but hang on we have got something more interesting and fun for you.
 
-#### Motive:
+### Motive:
 As we all know, amongst this pandemic the students are not able to be physically present inside the campus.
 Being one of the most important moments, in one's student life, convocation is a memorable event for everyone.
 In these situations, when students donot have the chance to bid farewell to the institute and their friends, and spend some quality time for one last time.
 IIT Guwahati has made sure students relive this event as if they were in the campus itself.
 
 
-#### Team Virtual Convocation:
+### Team Virtual Convocation:
 
 Seeing all this, it was very important to create some platform which would be fun for the students, so that they donot feel bad about missing the convocation, and at the same time it can be used as a platform to interact with the friends and faculties one last time in the favourite spots of the institute.
 
@@ -20,7 +21,7 @@ Under the esteemed supervision of, **[Dr. M. K. Bhuyan, Professor, EEE Departmen
 The student members involved are **[Snehil Sanyal](https://github.com/snehilsanyal)** and **[H Pallab Jyoti Dutta]()**, both Research Scholars from EEE Department.
 
 ## Instructions:
-#### About the Virtual Presence Space:
+### About the Virtual Presence Space:
 
 The virtual presence space uses **Gather Town** software along with some supporting softwares. The overall map for IIT Guwahati was made and imported to create the space.
 The map consists of:
@@ -37,7 +38,7 @@ The map consists of:
  
 The portal is very close to a Zoom meeting, but has a main difference that our portal allows students to have a **game like experience** of the environment with different objects, videos of different departments, speeches and much more.
 
-#### How do I ....?:
+### How do I ....?:
 
 Here is the link to the gather town virtual presence space:
 [**Virtual Presence Space**](https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation)
@@ -47,25 +48,32 @@ Once you click the link you will be directed to the gather town space. **We reco
 You will be prompted for the password once you go to the link.
 
 After entering into the space, check your Audio/Video settings as you would normally do for a Zoom meeting and enter your name.
-Hurrah!!! You are inside the campus.
+Hurrah!!! You are inside the virtual space of IIT Guwahati campus.
 
 ### NOTE:
 1. We will provide the password to you on **22nd September 2020, 11 AM Indian Standard Time** through this webpage.
-2. Kindly, login through the link in the **dedicated time slot** to avoid fuss,so that we can rectify any issues in the experience.
-3. Only those with an institute ID and the password for the room will be allowed to enter the space. Each slot will have different passwords. If you have iitg.ac.in institute ID only then you are allowed for the Virtual Presence experience.
+2. Kindly, login through the link in the **dedicated time slot** to avoid fuss,so that we can rectify any issues in the experience. 
+3. Only those who are graduating with an **Institute WebMail ID** and the **Password** for the room will be allowed to enter the space. We have set a guest list for allowed people.
+4. Each slot will have different passwords. If you have iitg.ac.in institute ID only then you will be allowed for the Virtual Presence experience.
 4. Maintain the necessary decorum of the platform as the event is big and everyone else will be present. Kindly make this day memorable for you as well as others.
 
-#### Scheduled slots:
-We have decided 4 slots dedicated for different branchs and centers. Each department will be having the graduating UG students, PG students, Research Scholars, and faculties.
-The Virtual Presence Time 
--- 
+### Scheduled slots:
 
-Kindly enter in the dedicated time slot. Each department has UG,PG, Research Scholars and faculties all of them will be entering together.
+We have decided **4 slots** dedicated for different branches and centers. Each department will be having the graduating **UG students, PG students, Research Scholars, and faculties**.
+___
+|Slots |Departments |Time Schedule | Password|
+|-------|--------|--------|------|
+|`Slot 1`||||
+|`Slot 2`||||
+|`Slot 3`||||
+|`Slot 4`||||
+___
+**Kindly enter in the dedicated time slot**. Each department has UG,PG, Research Scholars and faculties all of them will be entering together.
 
 
 
 
-#### Utilities:
+### Utilities:
 **Avatars:**
 Once you log in to the space you will be able to see a 2D virtual avatar. You can change the appearance of your avatar. This avatar will be seen by you and others.
 **Navigation:**
@@ -80,6 +88,8 @@ The point where you start from in the map once you login to the space is the spa
 - Some objects inside the environment are passable, i.e. you can pass through them easily while some objects are not passable.
 
 **Minimap:**
+
+![Minimap](https://user-images.githubusercontent.com/41544905/93706050-34c49a80-fb40-11ea-95f6-8354c4202c72.png "Minimap of IIT Guwahati")
 You can also see  the minimap of the institute from the pane given below, and see where you are with respect to the map.
 **Raise Hands:**
 You can raise hands within the space to have some query.
@@ -94,18 +104,17 @@ Say your friend is visible on the chat box, but you are not able to see him anyw
 Just click on his avatar in the chat box, and click on **locate**.
 This will make a straight line path from your location to your friends' location and then you can go to him and have a conversation.
 Once done you can click on **stop locating** button.
-
-Issues:	
+**Issues:**	
 - **Not able to enter the room?** 
 Check whether you are entering the password correctly.
 - **Delays or lags in the map?**
 Delays are subject to internet connectivity. As far as a normal connection is concerned everything will run smoothly.
 - **Connection lost while navigating?**
 Check your internet connection. If internet connection is working fine, go to settings button on the bottom pane of the window and click on Respawn. This will make your character spawn again in the map.
+- **Any other issues**:
+Kindly, contact us we will be present during each slot. 
 
-Youtube link:
-
-For any technical support you can contact us:
+**For any technical support you can contact us:**
 
 Snehil Sanyal
 ssanyal@iitg.ac.in
