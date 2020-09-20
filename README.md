@@ -4,9 +4,8 @@
   <img src="https://www.iitg.ac.in/clst/salsa/images/9.jpg"/>
   </p>
 
-<p align="center">  
-  <h2>Virtual Tour of IIT Guwahati Campus</h2>
-</p>
+<p style="text-align: center;"><h2>Virtual Tour of IIT Guwahati Campus</h2></p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/IIT%20Guwahati%20Logo.png"/>
