@@ -14,7 +14,7 @@
 <br>
   <b>Link to the Virtual Presence Space:</b>
 <br>
-  <b><a href="https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation">Virtual Presence Space</b></a>
+  <a href="https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation"><b>Virtual Presence Space</b></a>
 <br>
 </p>
 
