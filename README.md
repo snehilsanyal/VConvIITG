@@ -83,6 +83,7 @@ ___
 **Avatars:**
 
 Once you log in to the space you will be able to see a 2D virtual avatar. You can change the appearance of your avatar. This avatar will be seen by you and others.
+
 ![Character Select](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Character1.PNG "Character Select")
 
 **Navigation:**
