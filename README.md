@@ -155,9 +155,13 @@ Kindly, contact us we will be present during each slot.
 **For any technical support you can contact us:**
 ![]()
 >Snehil Sanyal
-ssanyal@iitg.ac.in
-`9399690211`
+>
+>ssanyal@iitg.ac.in
+>
+>`9399690211`
 
 >Pallab Jyoti Dutta
-h18@iitg.ac.in
-`9476757554`
+>
+>h18@iitg.ac.in
+>
+>`9476757554`
