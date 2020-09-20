@@ -1,13 +1,13 @@
 ## SITE UNDER RECONSTRUCTION !!! EDITING SOME MINOR CHANGES. CHANGES WILL REFLECT WITHIN A SHORT TIME.
 
 <p align="center">
-  <img src="https://www.iitg.ac.in/clst/salsa/images/9.jpg" width="425" height="450"/>
+  <img src="https://www.iitg.ac.in/clst/salsa/images/9.jpg"/>
   </p>
   
 ## Virtual Tour of IIT Guwahati Campus
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/IIT%20Guwahati%20Logo.png" />
+  <img src="https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/IIT%20Guwahati%20Logo.png"/>
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
   <b>Link to the Virtual Presence Space:</b>
 <br>
   <b><a href="https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation">Virtual Presence Space</b></a>
-  
 <br>
 </p>
+
 
 ### Greetings Class of 2020
 
