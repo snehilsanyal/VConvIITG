@@ -3,6 +3,11 @@
 
 ![](https://iitg.ac.in/freshers/res/images/iitg_logo.svg)
 
+Link to the Virtual Presence Space:
+
+[**Virtual Presence Space**](https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation)
+
+
 ### Greetings Class of 2020
 
 We know how difficult it is for all of you. Just don't let the negativity and the pandemic eat you up.
