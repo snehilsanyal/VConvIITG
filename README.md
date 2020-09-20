@@ -1,6 +1,6 @@
-![](https://iitg.ac.in/freshers/res/images/iitg_logo.svg) 
+![](https://www.iitg.ac.in/clst/salsa/images/9.jpg)
 ## Virtual Tour of IIT Guwahati Campus
-
+![](https://iitg.ac.in/freshers/res/images/iitg_logo.svg)
 ### Greetings Class of 2020
 We know how difficult it is for all of you. Just dont let the negativity and the pandemic eat you up.
 We know it has been 4 years of constant efforts which made you what you are today. But when the time came to cherish the final moment it was gone. We cannot assure you a physical convocation this time, but hang on we have got something more interesting and fun for you.
@@ -46,8 +46,8 @@ Once you click the link you will be directed to the gather town space. **We reco
 
 ![A](https://raw.githubusercontent.com/snehilsanyal/VConvIITG/master/password.png "Password")
 You will be prompted for the password once you go to the link.
-
 After entering into the space, check your Audio/Video settings as you would normally do for a Zoom meeting and enter your name.
+![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/name.png "Name")
 Hurrah!!! You are inside the virtual space of IIT Guwahati campus.
 
 ### NOTE:
@@ -70,40 +70,55 @@ ___
 ___
 **Kindly enter in the dedicated time slot**. Each department has UG,PG, Research Scholars and faculties all of them will be entering together.
 
-
-
-
 ### Utilities:
 **Avatars:**
 Once you log in to the space you will be able to see a 2D virtual avatar. You can change the appearance of your avatar. This avatar will be seen by you and others.
+![Character Select](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Character1.PNG "Character Select")
+
 **Navigation:**
 You can navigate the map using the arrow keys or W,A,S,D keys. Students who play games wont have any problem whatsoever in navigating and roaming around.
+
 **Ghost Mode:** 
 You can hold the 'G' key in the keyboard to enter ghost mode if you want to avoid some people (just kidding, if you want to silently surpass everyone)
+
 **Spawning:**
+
+![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/spawn%20area.png "Spawn")
 The point where you start from in the map once you login to the space is the spawn point.
+
 **Entry and Exit:**
-- Each buildings are accompanied by entry/exit points. Just follow the arrows, step one pixel behind from the direction of the arrow and press the **down arrow**/ **'S' key** to enter the building.
+![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Entry.PNG "Entry and Exit")
+- Each buildings are accompanied by entry/exit points. Just follow the arrows, step one pixel behind from the direction of the arrow and press the **Down Arrow**/ **'S' key** to enter the building.
 - To exit any building, follow the directions given inside the map and go towards the exit door arrow.
 - Some objects inside the environment are passable, i.e. you can pass through them easily while some objects are not passable.
 
 **Minimap:**
-
-![Minimap](https://user-images.githubusercontent.com/41544905/93706050-34c49a80-fb40-11ea-95f6-8354c4202c72.png "Minimap of IIT Guwahati")
+![Minimap](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Minimap.PNG "Minimap of IIT Guwahati")
 You can also see  the minimap of the institute from the pane given below, and see where you are with respect to the map.
+![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Options.PNG "Options")
+Other options are Screenshare, Raise Hands, Status, and settings.
+
 **Raise Hands:**
 You can raise hands within the space to have some query.
+
 **Chat:**
+
+![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Chatbox.PNG "Chatbox")
 Have a chat with your friends from the side pane using the chatbox.
 Go to them using the **locate** button. Once you reach anyone you will be able to see there video as well.
+
 **Interact:**
-Interact with the environment once the screen prompts. Whenever you go close to an interactive object like video or poster you can press the X button to interact with it.
+
+![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Interact.PNG "Interact")
+Interact with the environment once the screen prompts. Whenever you go close to an interactive object like video or poster you can **press the X** button to interact with it.
 Once you are interacting  with the posters, you will be seeing a message Press i to go to the link. This i button will be on the right of your pane between your screen and chat box.
+
 **Locate:**
 Say your friend is visible on the chat box, but you are not able to see him anywhere near to you. And you want to have a chat with him/her.
 Just click on his avatar in the chat box, and click on **locate**.
 This will make a straight line path from your location to your friends' location and then you can go to him and have a conversation.
 Once done you can click on **stop locating** button.
+
 **Issues:**	
 - **Not able to enter the room?** 
 Check whether you are entering the password correctly.
@@ -115,9 +130,11 @@ Check your internet connection. If internet connection is working fine, go to se
 Kindly, contact us we will be present during each slot. 
 
 **For any technical support you can contact us:**
-
-Snehil Sanyal
+![]()
+>Snehil Sanyal
 ssanyal@iitg.ac.in
-9399690211
-Pallab Jyoti Dutta
+`9399690211`
+
+>Pallab Jyoti Dutta
 h18@iitg.ac.in
+`9476757554`
