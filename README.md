@@ -3,7 +3,7 @@
 
 ![](https://iitg.ac.in/freshers/res/images/iitg_logo.svg)
 
-Link to the Virtual Presence Space:
+**Link to the Virtual Presence Space:**
 
 [**Virtual Presence Space**](https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation)
 
