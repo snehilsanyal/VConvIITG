@@ -144,12 +144,16 @@ Once done you can click on **stop locating** button.
 **Issues:**	
 
 - **Not able to enter the room?** 
+
 Check whether you are entering the password correctly.
 - **Delays or lags in the map?**
+
 Delays are subject to internet connectivity. As far as a normal connection is concerned everything will run smoothly.
 - **Connection lost while navigating?**
+
 Check your internet connection. If internet connection is working fine, go to settings button on the bottom pane of the window and click on Respawn. This will make your character spawn again in the map.
 - **Any other issues**:
+
 Kindly, contact us we will be present during each slot. 
 
 **For any technical support you can contact us:**
