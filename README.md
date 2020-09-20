@@ -70,12 +70,12 @@ Hurrah!!! You are inside the virtual space of IIT Guwahati campus.
 
 We have decided **4 slots** dedicated for different branches and centers. Each department will be having the graduating **UG students, PG students, Research Scholars, and faculties**.
 
-|Slots   |Department | Time  | Password |
+|[**Slots**]()   |[**Departmenta**]() | [**Time**]()  | [**Password**]()|
 |:-------|:-----------------------|:-------|:---------------|
-| Slot 1 | good swedish fish | nice  ||
-| Slot 2 | good and plenty   | nice  ||
-| Slot 3 | good ```oreos```      | hmm   ||
-| Slot 4 | good ```zoute``` drop | yumm  ||
+| **Slot 1** | CSE + ME + CLST + Nano | 01:30 PM - 02:00 PM  |ABCDEFG|
+| **Slot 2** | EEE + Humanities + Civil + Rural  | 02:05 PM - 02:35 PM  |HIJKLMN|
+| **Slot 3** | BSBE + Maths + Design + Energy  | 02:40 PM - 03:10 PM  |OPQRSTU|
+| **Slot 4** | Chemistry + Physics + Chemical + Environment| 03:15 PM - 03:45 PM  |VWXYZ12|
 
 **Kindly enter in the dedicated time slot**. Each department has UG,PG, Research Scholars and faculties all of them will be entering together.
 
