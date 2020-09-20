@@ -10,9 +10,9 @@
 
 <p align="center">
 <br>
-**Link to the Virtual Presence Space:**
+  <b>Link to the Virtual Presence Space:</b>
 <br>
-[**Virtual Presence Space**](https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation)
+  <b>[Virtual Presence Space](https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation)</b>
 <br>
 </p>
 ### Greetings Class of 2020
