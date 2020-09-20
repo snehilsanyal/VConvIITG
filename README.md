@@ -1,6 +1,3 @@
-<blockquote cite="http://www.worldwildlife.org/who/index.html">
-For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.
-</blockquote>
 <p align="center">
   <img src="https://www.iitg.ac.in/clst/salsa/images/9.jpg" width="425" height="450"/>
   </p>
@@ -175,19 +172,14 @@ Check your internet connection. If internet connection is working fine, go to se
 Kindly contact us. We will be present during each slot. 
 
 **For any technical support you can contact us:**
-
-![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/Snehil%20Sanyal.jpg)
-
-> **Snehil Sanyal**
->
->ssanyal@iitg.ac.in
->
->`9399690211`
-
-![ ](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/H%20Pallab%20Jyoti%20Dutta.jpg)
-
-> **Pallab Jyoti Dutta**
->
->h18@iitg.ac.in
->
->`9476757554`
+<img src="https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/Snehil%20Sanyal.jpg"/><img src="https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/H%20Pallab%20Jyoti%20Dutta.jpg"/>
+<blockquote>
+  <b>Snehil Sanyal</b><br>
+  <b>Email-ID: ssanyal@iitg.ac.in</b><br>
+  <b>Contact: 9399690211</b><br>
+</blockquote>
+<blockquote>
+  <b>Snehil Sanyal</b><br>
+  <b>Email-ID: ssanyal@iitg.ac.in</b><br>
+  <b>Contact: 9399690211</b><br>
+</blockquote>
