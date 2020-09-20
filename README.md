@@ -6,20 +6,18 @@
 
 ## Virtual Tour of IIT Guwahati Campus:
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/IIT%20Guwahati%20Logo.png"/>
-</p>
+![IIT Guwahati](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/IIT%20Guwahati%20Logo.png)
 
 <p align="center">
 <br>
-  <b>Link to the Virtual Presence Space:</b>
+  <b><h3>Link to the Virtual Presence Space:</h3></b>
 <br>
   <a href="https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation">Virtual Presence Space</a>
 <br>
 </p>
 
 - For Password and other login details [click here](#Password)
-- For Instructions regarding the portal [click here](#Instructions)
+- For Instructions on how to use the portal [click here](#Instructions)
 - For Issues and Technical Support [click here](#Issues)
 
 ### Greetings Class of 2020
@@ -41,7 +39,7 @@ Seeing all this, it was very important to create some platform which would be fu
 
 Thus, came the idea of the **virtual presence experience**. This virtual presence was created by a team of faculty and students **(Team Virtual Convocation)**.
 
-The virtual presence platform is created by a team led by **[Dr. M.K. Bhuyan, Professor, Department of EEE, IIT Guwahati](https://www.iitg.ac.in/mkb/)**. The team also consists of his two students **[Snehil Sanyal](https://github.com/snehilsanyal)** and **[H Pallab Jyoti Dutta]()**, who are research scholars of **EEE Department, IIT Guwahati**.
+The virtual presence platform is created by a team led by **[Dr. M.K. Bhuyan, Professor, Department of EEE, IIT Guwahati](https://www.iitg.ac.in/mkb/)**.The team also consists of his two students **[Snehil Sanyal](https://github.com/snehilsanyal)** and **[H Pallab Jyoti Dutta]()**, who are research scholars of **EEE Department, IIT Guwahati**.
 
 
 ## Instructions:
