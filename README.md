@@ -1,11 +1,15 @@
 ![](https://www.iitg.ac.in/clst/salsa/images/9.jpg)
 ## Virtual Tour of IIT Guwahati Campus
+
 ![](https://iitg.ac.in/freshers/res/images/iitg_logo.svg)
+
 ### Greetings Class of 2020
+
 We know how difficult it is for all of you. Just dont let the negativity and the pandemic eat you up.
 We know it has been 4 years of constant efforts which made you what you are today. But when the time came to cherish the final moment it was gone. We cannot assure you a physical convocation this time, but hang on we have got something more interesting and fun for you.
 
 ### Motive:
+
 As we all know, amongst this pandemic the students are not able to be physically present inside the campus.
 Being one of the most important moments, in one's student life, convocation is a memorable event for everyone.
 In these situations, when students donot have the chance to bid farewell to the institute and their friends, and spend some quality time for one last time.
@@ -51,6 +55,7 @@ After entering into the space, check your Audio/Video settings as you would norm
 Hurrah!!! You are inside the virtual space of IIT Guwahati campus.
 
 ### NOTE:
+
 1. We will provide the password to you on **22nd September 2020, 11 AM Indian Standard Time** through this webpage.
 2. Kindly, login through the link in the **dedicated time slot** to avoid fuss,so that we can rectify any issues in the experience. 
 3. Only those who are graduating with an **Institute WebMail ID** and the **Password** for the room will be allowed to enter the space. We have set a guest list for allowed people.
@@ -72,13 +77,16 @@ ___
 
 ### Utilities:
 **Avatars:**
+
 Once you log in to the space you will be able to see a 2D virtual avatar. You can change the appearance of your avatar. This avatar will be seen by you and others.
 ![Character Select](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Character1.PNG "Character Select")
 
 **Navigation:**
+
 You can navigate the map using the arrow keys or W,A,S,D keys. Students who play games wont have any problem whatsoever in navigating and roaming around.
 
 **Ghost Mode:** 
+
 You can hold the 'G' key in the keyboard to enter ghost mode if you want to avoid some people (just kidding, if you want to silently surpass everyone)
 
 **Spawning:**
@@ -87,18 +95,21 @@ You can hold the 'G' key in the keyboard to enter ghost mode if you want to avoi
 The point where you start from in the map once you login to the space is the spawn point.
 
 **Entry and Exit:**
+
 ![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Entry.PNG "Entry and Exit")
 - Each buildings are accompanied by entry/exit points. Just follow the arrows, step one pixel behind from the direction of the arrow and press the **Down Arrow**/ **'S' key** to enter the building.
 - To exit any building, follow the directions given inside the map and go towards the exit door arrow.
 - Some objects inside the environment are passable, i.e. you can pass through them easily while some objects are not passable.
 
 **Minimap:**
+
 ![Minimap](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Minimap.PNG "Minimap of IIT Guwahati")
 You can also see  the minimap of the institute from the pane given below, and see where you are with respect to the map.
 ![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Options.PNG "Options")
 Other options are Screenshare, Raise Hands, Status, and settings.
 
 **Raise Hands:**
+
 You can raise hands within the space to have some query.
 
 **Chat:**
@@ -114,12 +125,14 @@ Interact with the environment once the screen prompts. Whenever you go close to 
 Once you are interacting  with the posters, you will be seeing a message Press i to go to the link. This i button will be on the right of your pane between your screen and chat box.
 
 **Locate:**
+
 Say your friend is visible on the chat box, but you are not able to see him anywhere near to you. And you want to have a chat with him/her.
 Just click on his avatar in the chat box, and click on **locate**.
 This will make a straight line path from your location to your friends' location and then you can go to him and have a conversation.
 Once done you can click on **stop locating** button.
 
 **Issues:**	
+
 - **Not able to enter the room?** 
 Check whether you are entering the password correctly.
 - **Delays or lags in the map?**
