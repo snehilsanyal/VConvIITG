@@ -6,15 +6,13 @@
 
 ## Virtual Tour of IIT Guwahati Campus:
 
+
 ![IIT Guwahati](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/IIT%20Guwahati%20Logo.png)
 
-<p align="center">
-<br>
-  <b><h3>Link to the Virtual Presence Space:</h3></b>
-<br>
-  <a href="https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation">Virtual Presence Space</a>
-<br>
-</p>
+
+### Link to the Virtual Presence Space:
+[Click here](https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation)
+
 
 - For Password and other login details [click here](#Password)
 - For Instructions on how to use the portal [click here](#Instructions)
