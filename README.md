@@ -18,7 +18,9 @@
 <br>
 </p>
 
-For Password and other login details [click here](#Password)
+- For Password and other login details [click here](#Password)
+- For Instructions regarding the portal [click here](#Instructions)
+- For Issues and Technical Support [click here](#Issues)
 
 ### Greetings Class of 2020
 
@@ -64,6 +66,7 @@ The portal is very close to a Zoom meeting, but has a main difference that our p
 
 Here is the link to the gather town virtual presence space:
 [**Virtual Presence Space**](https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation)
+
 Once you click the link you will be directed to the gather town space. **We recommend you to use your laptops or PCs for this as the API is a bit slow.**
 
 ![A](https://raw.githubusercontent.com/snehilsanyal/VConvIITG/master/password.png "Password")
@@ -161,6 +164,7 @@ Just click on his avatar in the chat box, and click on **locate**.
 This will make a straight line path from your location to your friend's location and then you can go to him and have a conversation.
 Once done you can click on **stop locating** button.
 
+<a name="Issues"></a>
 **Issues:**	
 
 - **Not able to enter the room?** 
@@ -177,11 +181,11 @@ Check your internet connection. If internet connection is working fine, go to se
 Kindly contact us. We will be present during each slot. 
 
 **For any technical support you can contact us:**
+
 <img src="https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/Snehil%20Sanyal.jpg"/><img src="https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/H%20Pallab%20Jyoti%20Dutta.jpg"/>
+
 <blockquote>
-  <b>Snehil Sanyal</b><br>
-  <b>Email-ID: ssanyal@iitg.ac.in</b><br>
-  <b>Contact: 9399690211</b><br>
+  <b>Snehil Sanyal</b>      <b>Email-ID: ssanyal@iitg.ac.in</b>     <b>Contact: 9399690211</b><br>
 </blockquote>
 <blockquote>
   <b>Snehil Sanyal</b><br>
