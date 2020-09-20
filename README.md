@@ -63,7 +63,7 @@ Hurrah!!! You are inside the virtual space of IIT Guwahati campus.
 1. We will provide the password to you on **22nd September 2020, 11 AM Indian Standard Time** through this webpage.
 2. Kindly, login through the link in the **dedicated time slot** to avoid fuss,so that we can rectify any issues in the experience. 
 3. Only those who are graduating with an **Institute WebMail ID** and the **Password** for the room will be allowed to enter the space. We have set a guest list for allowed people.
-4. Each slot will have different passwords. If you have `iitg.ac.in` institute ID only then you will be allowed for the Virtual Presence experience.
+4. Each slot will have different passwords. If you have ```iitg.ac.in``` institute ID only then you will be allowed for the Virtual Presence experience.
 4. Maintain the necessary decorum of the platform as the event is big and everyone else will be present. Kindly make this day memorable for you as well as others.
 
 ### Scheduled slots:
@@ -76,6 +76,10 @@ We have decided **4 slots** dedicated for different branches and centers. Each d
 | [**SLOT 2**]() | EEE + Humanities + Civil + Rural  | **02:05 PM - 02:35 PM**  |HIJKLMN|
 | [**SLOT 3**]() | BSBE + Maths + Design + Energy  | **02:40 PM - 03:10 PM**  |OPQRSTU|
 | [**SLOT 4**]() | Chemistry + Physics + Chemical + Environment| **03:15 PM - 03:45 PM**  |VWXYZ12|
+
+```python
+[Slot 4]()  A  B  C 
+```
 
 **Kindly enter in the dedicated time slot**. Each department has UG,PG, Research Scholars and faculties all of them will be entering together.
 
