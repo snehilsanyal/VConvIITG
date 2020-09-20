@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/IIT%20Guwahati%20Logo.png" />
 </p>
 
-<p align = "center">
+<p align="center">
 
 **Link to the Virtual Presence Space:**
 
