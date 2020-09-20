@@ -159,7 +159,7 @@ Kindly, contact us we will be present during each slot.
 
 **For any technical support you can contact us:**
 
-![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/Snehil%20(2).jpg)
+![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/Snehil%20Sanyal.jpg)
 
 > **Snehil Sanyal**
 >
@@ -167,7 +167,7 @@ Kindly, contact us we will be present during each slot.
 >
 >`9399690211`
 
-![ ](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/Webp.net-resizeimage.jpg)
+![ ](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/H%20Pallab%20Jyoti%20Dutta.jpg)
 
 > **Pallab Jyoti Dutta**
 >
