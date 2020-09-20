@@ -68,7 +68,7 @@ Hurrah!!! You are inside the virtual space of IIT Guwahati campus.
 
 ### Scheduled slots:
 
-We have decided **4 slots** dedicated for different branches and centers. Each department will be having the graduating **UG students, PG students, Research Scholars, and faculties**.
+We have decided **4 slots** dedicated for different branches and centers. Each department will be having the graduating **UG students, PG students, Research Scholars and Faculties**.
 
 |[**Slots**]()   |[**Departments**]() | [**Time**]()  | [**Password**]()|
 |:-------|:-----------------------|:-------|:---------------|
@@ -78,7 +78,7 @@ We have decided **4 slots** dedicated for different branches and centers. Each d
 | [**SLOT 4**]() | Chemistry + Physics + Chemical + Environment| **03:15 PM - 03:45 PM**  |VWXYZ12|
 
 
-**Kindly enter in the dedicated time slot**. Each department has UG,PG, Research Scholars and faculties all of them will be entering together.
+**Kindly enter in the dedicated time slot**. Each department has UG, PG, Research Scholars and Faculties. All of them will be entering together.
 
 ### Utilities:
 **Avatars:**
@@ -103,7 +103,7 @@ The point where you start from in the map once you login to the space is the spa
 **Entry and Exit:**
 
 ![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati/master/Entry.PNG "Entry and Exit")
-- Each buildings are accompanied by entry/exit points. Just follow the arrows, step one pixel behind from the direction of the arrow and press the **Down Arrow**/ **'S' key** to enter the building.
+- Each building is accompanied by entry/exit points. Just follow the arrows, step one pixel behind from the direction of the arrow and press the **Down Arrow**/ **'S' key** to enter the building.
 - To exit any building, follow the directions given inside the map and go towards the exit door arrow.
 - Some objects inside the environment are passable, i.e. you can pass through them easily while some objects are not passable.
 
@@ -139,7 +139,7 @@ Once you are interacting  with the posters, you will be seeing a message **Press
 
 Say your friend is visible on the chat box, but you are not able to see him anywhere near to you. And you want to have a chat with him/her.
 Just click on his avatar in the chat box, and click on **locate**.
-This will make a straight line path from your location to your friends' location and then you can go to him and have a conversation.
+This will make a straight line path from your location to your friend's location and then you can go to him and have a conversation.
 Once done you can click on **stop locating** button.
 
 **Issues:**	
@@ -155,7 +155,7 @@ Delays are subject to internet connectivity. As far as a normal connection is co
 Check your internet connection. If internet connection is working fine, go to settings button on the bottom pane of the window and click on Respawn. This will make your character spawn again in the map.
 - **Any other issues**:
 
-Kindly, contact us. We will be present during each slot. 
+Kindly contact us. We will be present during each slot. 
 
 **For any technical support you can contact us:**
 
