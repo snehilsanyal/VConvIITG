@@ -6,8 +6,10 @@
 
 ## Virtual Tour of IIT Guwahati Campus:
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/IIT%20Guwahati%20Logo.png"/>
+</p>
 
-![IIT Guwahati](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/IIT%20Guwahati%20Logo.png)
 
 <img src="https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/1.PNG"/>
 
