@@ -177,14 +177,19 @@ Check your internet connection. If internet connection is working fine, go to se
 Kindly contact us. We will be present during each slot. 
 
 **For any technical support you can contact us:**
+![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/Snehil%20Sanyal.jpg)
 
-<img src="https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/Snehil%20Sanyal.jpg"/><img src="https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/H%20Pallab%20Jyoti%20Dutta.jpg"/>
+> [Snehil Sanyal]()
+>
+> Email-ID: ssanyal@iitg.ac.in
+>
+> Contact: 9399690211
 
-<blockquote>
-  <b>Snehil Sanyal</b>      <b>Email-ID: ssanyal@iitg.ac.in</b>     <b>Contact: 9399690211</b><br>
-</blockquote>
-<blockquote>
-  <b>Snehil Sanyal</b><br>
-  <b>Email-ID: ssanyal@iitg.ac.in</b><br>
-  <b>Contact: 9399690211</b><br>
-</blockquote>
+![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/H%20Pallab%20Jyoti%20Dutta.jpg)
+
+
+> [H Pallab Jyoti Dutta]()
+>
+> Email-ID: h18@iitg.ac.in
+>
+> Contact: 9401476791
