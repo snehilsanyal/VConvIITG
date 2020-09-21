@@ -9,12 +9,8 @@
 
 ![IIT Guwahati](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/IIT%20Guwahati%20Logo.png)
 
-<img src="https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/1.PNG" width="500" height="500"/>
+<img src="https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/1.PNG" width="700" height="500/>
 
-<br>
-<p align="center">
-  <strong>IIT Guwahati</strong>
-</p>
 
 ## Link to the Virtual Presence Space: [Click here](https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation)
 
