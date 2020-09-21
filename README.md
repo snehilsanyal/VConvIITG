@@ -9,8 +9,10 @@
 
 ![IIT Guwahati](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/IIT%20Guwahati%20Logo.png)
 
+<br>
+<br>
 
-### Link to the Virtual Presence Space: [Click here](https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation)
+## Link to the Virtual Presence Space: [Click here](https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation)
 
 
 - For Password and other login details [click here](#Password)
@@ -176,9 +178,10 @@ Check your internet connection. If internet connection is working fine, go to se
 Kindly contact us. We will be present during each slot. 
 
 **For any technical support you can contact us:**
+
 ![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/Snehil%20Sanyal.jpg)
 
-> [Snehil Sanyal]()
+> [**Snehil Sanyal**]()
 >
 > Email-ID: ssanyal@iitg.ac.in
 >
@@ -187,7 +190,7 @@ Kindly contact us. We will be present during each slot.
 ![](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/H%20Pallab%20Jyoti%20Dutta.jpg)
 
 
-> [H Pallab Jyoti Dutta]()
+> [**H Pallab Jyoti Dutta**]()
 >
 > Email-ID: h18@iitg.ac.in
 >
