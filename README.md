@@ -10,8 +10,7 @@
 ![IIT Guwahati](https://raw.githubusercontent.com/snehilsanyal/Virtual-Presence-IIT-Guwahati-2020/master/IIT%20Guwahati%20Logo.png)
 
 
-### Link to the Virtual Presence Space:
-[Click here](https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation)
+### Link to the Virtual Presence Space: [Click here](https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation)
 
 
 - For Password and other login details [click here](#Password)
