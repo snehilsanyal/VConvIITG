@@ -1,4 +1,4 @@
-## Virtual Convocation IIT Guwahati 2020
+## Virtual Presence IIT Guwahati 2020
 
 <p align="center">
   <img src="https://www.iitg.ac.in/clst/salsa/images/9.jpg"/>
